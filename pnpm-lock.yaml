@@ -11,9 +11,6 @@ importers:
       '@vite-pwa/vitepress':
         specifier: 0.5.3
         version: 0.5.3(vite-plugin-pwa@0.21.1(vite@6.0.10(@types/node@22.10.7)(stylus@0.54.8)(terser@5.37.0))(workbox-build@7.3.0)(workbox-window@7.3.0))
-      '@vuepress/theme-default':
-        specifier: 1.9.10
-        version: 1.9.10
       vuepress:
         specifier: 1.9.10
         version: 1.9.10(@vue/compiler-sfc@3.5.13)(ejs@3.1.10)(hogan.js@3.0.2)(lodash@4.17.21)

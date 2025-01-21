@@ -11,7 +11,7 @@ export default {
   themeConfig: {
     nav: [
       {
-        text: '首页',
+        text: 'HOME',
         link: '/'
       },
       {
@@ -19,8 +19,12 @@ export default {
         link: '/lib/'
       }
     ],
-    sidebar: [
-      ['/lib/', '/lib/device']
-    ]
+    sidebar: {
+      '/lib/': [
+        '',
+        'ua',
+        'android'
+      ]
+    }
+    }
   }
-}

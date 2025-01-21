@@ -6,7 +6,6 @@ category: '@device'
 
 获取浏览器 userAgent
 
-
 ## 使用
 
 ```ts
